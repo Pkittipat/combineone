@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: combineeone
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/Pkittipat/combineone.git
+Author: pkittipat
+Author-email: kittipat.phongsak@gmail.com
+License: UNKNOWN
+Description: ### TEST ONE
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
