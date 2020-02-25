@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Pkittipat/combineone.git",
+    url="https://github.com/Pkittipat/combineone/tree/0.0.2",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
