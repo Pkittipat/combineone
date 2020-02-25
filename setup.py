@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Pkittipat/combineone",
-    download_url="https://github.com/Pkittipat/combineone/releases/tag/0.0.3",
+    # download_url="https://github.com/Pkittipat/combineone/releases/tag/0.0.3",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
